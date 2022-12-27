@@ -1,0 +1,5 @@
+﻿  HangManGame.cpp
+E:\learn_CPP_by_makings_game\HangManGame\HangManGame\HangManGame.cpp(232,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Utils.cpp
+  Generating Code...
+  HangManGame.vcxproj -> E:\learn_CPP_by_makings_game\HangManGame\x64\Debug\HangManGame.exe
